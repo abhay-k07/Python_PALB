@@ -1,0 +1,25 @@
+s = set()
+
+m1 = int(input("Enter a Number:"))
+s.add(m1)
+m2 = int(input("Enter a Number:"))
+s.add(m2)
+m3 = int(input("Enter a Number:"))
+s.add(m3)
+m4 = int(input("Enter a Number:"))
+s.add(m4)
+m5 = int(input("Enter a Number:"))
+s.add(m5)
+m6 = int(input("Enter a Number:"))
+s.add(m6)
+m7 = int(input("Enter a Number:"))
+s.add(m7)
+m8 = int(input("Enter a Number:"))
+s.add(m8)
+#remove
+s.remove(m4)
+#add
+s.add(100)
+#sort
+s = sorted(s)
+print(s)

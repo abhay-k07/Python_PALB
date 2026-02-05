@@ -1,0 +1,1 @@
+print("Hello!! now i will introduce myself\nname: Abhay Kumar\nage: 18\njob: none\naddress: janakpuri, New Delhi\nplace of birth: delhi")
